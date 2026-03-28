@@ -20,5 +20,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Momoh-Joshua14&layout=compact&theme=radical&hide_border=true)
 
 ---
-📫 **Connect with me:** [LinkedIn(www.linkedin.com/in/momohjoshua14)]
+📫 **Connect with me:** [LinkedInl(www.linkedin.com/in/momohjoshua14)
 
