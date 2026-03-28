@@ -16,9 +16,10 @@
 - - -
 
 ### 📈 GitHub Stats
-![Momoh-Joshua14](https://github-readme-stats.vercel.app/api?username=Momoh-Joshua14&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Momoh-Joshua14&layout=compact&theme=radical&hide_border=true)
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Momoh-Joshua14&show_icons=true&theme=radical&hide_border=true" alt="Joshua's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momoh-Joshua14&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="150" />
+</p>
 ---
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/momohjoshua14)
 
