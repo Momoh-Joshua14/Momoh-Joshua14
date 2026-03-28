@@ -1,5 +1,5 @@
-- #👋 Hi, I’m @Momoh-Joshua14
-- ###✈️ AI-Augumented Web Developer & Computer Science Student
+- # 👋 Hi, I’m @Momoh-Joshua14
+- ### ✈️ AI-Augumented Web Developer & Computer Science Student
 - I specialise in building high-performance web applications by combining **Full-Stack Engineering** with modern **AI Automation**
 
 - - -
