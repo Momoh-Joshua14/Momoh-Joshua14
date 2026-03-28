@@ -16,7 +16,7 @@
 - - -
 
 ### 📈 GitHub Stats
-![Joshua's Stats](https://github-readme-stats.vercel.app/api?username=Momoh-Joshua14&show_icons=true&theme=radical&hide_border=true)
+![Momoh-Joshua14](https://github-readme-stats.vercel.app/api?username=Momoh-Joshua14&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Momoh-Joshua14&layout=compact&theme=radical&hide_border=true)
 
 ---
